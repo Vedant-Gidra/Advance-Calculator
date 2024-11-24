@@ -96,7 +96,8 @@ Result: 2
 ---
 
 ## Future Enhancements  
-Currently, the focus is on building **logic and algorithms** rather than full-fledged development features. Potential future enhancements include:  
-- Extending the expression evaluator to support multiplication (`*`) and division (`/`).  
-- Adding graphical representations for matrix operations.  
--Integration with File Systems: Enable exporting and importing complex expressions and matrices for reuse.
+Currently, the focus is on building logic and algorithms rather than full-fledged development features. Potential future enhancements:
+
+- Extending the expression evaluator to support multiplication (`*`) and division (`/`).
+- Adding graphical representations for matrix operations.
+- Integration with File Systems: Enable exporting and importing complex expressions and matrices for reuse.
